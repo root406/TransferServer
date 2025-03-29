@@ -1,0 +1,4 @@
+name: Transferserver
+version: '${project.version}'
+main: radjaguar2005.transferserver.Transferserver
+description: ServerTransfer Plugin vor KiruCity
